@@ -4,4 +4,4 @@ https://youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6&si=0JoGvrZ9
 So, I will use this space to push all my practice from lessons in order to track my progress\
 \
 ![image](https://github.com/user-attachments/assets/15439e86-04fa-440e-8324-5fa805848768) \
-\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"Stranger Than Paradise", - film by Jim Jarmusch, 1984
+<p>\t\t\t\t\t\t\t\t\t\t\t"Stranger Than Paradise", - film by Jim Jarmusch, 1984<p></p>
