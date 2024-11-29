@@ -24,7 +24,10 @@ var raw = `
 
 func visit(n *html.Node, words, pics *int) {
 
-	if n.Type == html.TextNode && n.Data != "script" {
+	if n.Type == html.ElementNode && (n.Data == "script" || n.Data == "style") {
+		return
+	}
+	if n.Type == html.TextNode {
 		*words += len(strings.Fields(n.Data))
 
 	} else if n.Type == html.ElementNode && n.Data == "img" {
