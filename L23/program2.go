@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"log"
 	"net/http"
+	"time"
 )
 
 //var nextID = make(chan int)
@@ -11,6 +12,7 @@ import (
 type nextCh chan int
 
 func (ch nextCh) handler(w http.ResponseWriter, r *http.Request) {
+	time.Sleep(time.Duration(7) * time.Second)
 	fmt.Fprintf(w, "<h1>You got %d<h1>", <-ch)
 
 	//nextID++ // UNSAFE
