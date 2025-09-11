@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+package echo.v1;
+
+option go_package = "github.com/lorette-m/gRPC_Learn/gen/go/echo/v1;echov1";
+
+service EchoService {
+  rpc Echo(EchoRequest) returns (EchoResponse);
+}
+
+message EchoRequest { string message = 1; }
+message EchoResponse { string message = 1; }
