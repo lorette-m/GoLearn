@@ -1,4 +1,4 @@
-module gRPC_Learn
+module github.com/lorette-m/GoLearn/gRPC_Learn
 
 go 1.25
 
