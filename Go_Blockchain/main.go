@@ -85,6 +85,11 @@ func (cli *CommandLine) run() {
 }
 
 func main() {
+	/* Usage:
+	go run main.go add -block "first block"
+	go run main.go print
+	*/
+
 	defer os.Exit(0)
 	chain := blockchain.InitBlockChain()
 	defer chain.Database.Close()
