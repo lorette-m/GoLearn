@@ -12,3 +12,8 @@ So, I will use this space to push all my practice from lessons in order to track
 Директория проекта по курсу "Интенсив по gRPC", на который меня пригласили.   
 Создатели курса: Эдгар Сипки и Василий Близнецов — создатели инструмента EasyP.   
 Подробнее про интенсив: https://course.grpc.easyp.tech/
+## Go_Blockchain   
+Course 'bout building blockchain in Go, link:\
+https://youtube.com/playlist?list=PLJbE2Yu2zumC5QE39TQHBLYJDB2gfFE5Q&si=WyrlWQpocZGCGcdC  
+Course is relatively old, so I'm updating some parts with modern Golang features.   
+This fact does not change the meaning of the common concepts and approaches used by the author.   
