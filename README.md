@@ -7,7 +7,7 @@ So, I will use this space to push all my practice from lessons in order to track
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Stranger Than Paradise", - film by Jim Jarmusch, 1984
 
 # Notes   
-**L28** - **L32**: mostly theoretical, no code directiries.   
+**L28** - **L32**: mostly theoretical, no code directories.   
 ## gRPC_Learn   
 Директория проекта по курсу "Интенсив по gRPC", на который меня пригласили.   
 Создатели курса: Эдгар Сипки и Василий Близнецов — создатели инструмента EasyP.   
